@@ -1,0 +1,1 @@
+LNRT2HTML is a library for converting Lotus Notes rich text field value to HTML.
